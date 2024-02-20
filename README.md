@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Luis Carlos Navarro Todd</h1>
 <h3 align="center">Soy un estudiante de 3er año de Ingeniería En Computación del ITCR</h3>
 
-<h3 align="left">Connect with me: 📫 luiscatodd@gmail.com</h3>
+<h3 align="left">Contacto: 📫 luiscatodd@gmail.com</h3>
 <p align="left">
   Tengo experiencia trabajando en desarrollo fullstack con frameworks como Angular, Express o Flask y también tengo conocimientos de python, c++ y java.
 </p>
@@ -16,7 +16,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
